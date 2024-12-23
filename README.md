@@ -20,12 +20,6 @@ It includes the following key components:
 - End-to-end workflow for survival prediction modeling.
 - Tools to assess model performance and fairness metrics.
 
-## Results
-
-- **Predictive Models:** The notebook includes performance evaluation metrics for models like C-index metric.
-- **Fairness Assessment:** Insights into demographic disparities in model predictions.
-- **Improved Equity:** Implementation of techniques to balance prediction outcomes across groups.
-
 
 ## Acknowledgments
 
