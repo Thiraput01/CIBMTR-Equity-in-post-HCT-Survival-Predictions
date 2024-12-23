@@ -25,6 +25,3 @@ It includes the following key components:
  
 ![image](https://github.com/user-attachments/assets/a19727a4-1b4f-45e9-af54-42977a2e928a)
 
-## Acknowledgments
-
-- Data provided by [Kaggle](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/data).
