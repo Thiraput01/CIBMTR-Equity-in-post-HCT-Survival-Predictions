@@ -22,7 +22,7 @@ It includes the following key components:
 - Evaluation Metrics:
   - Applied the Kaplan-Meier method for survival analysis.
   - Used Concordance Index (C-index) to evaluate predictive performance.
-    ![image](https://github.com/user-attachments/assets/a19727a4-1b4f-45e9-af54-42977a2e928a)
+![image](https://github.com/user-attachments/assets/a19727a4-1b4f-45e9-af54-42977a2e928a)
 
 ## Acknowledgments
 
