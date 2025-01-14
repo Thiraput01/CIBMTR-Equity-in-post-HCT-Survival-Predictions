@@ -12,8 +12,6 @@ The project explores:
 It includes the following key components:
 1. **Data Preprocessing:** Handling and preparing the dataset for analysis.
 2. **Modeling:** Developing predictive models to estimate survival outcomes.
-3. **Bias Assessment:** Analyzing the fairness of predictions across different demographic groups.
-4. **Fairness Improvements:** Implementing strategies to enhance equity in predictions.
 
 ## Key Features
 
